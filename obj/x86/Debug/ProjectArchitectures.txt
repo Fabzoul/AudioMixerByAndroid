@@ -1,0 +1,1 @@
+D:\Bibliothèques\Documents\Visual Studio 2017\Projects\AudioMixerByAndroid\AudioMixerByAndroid\AudioMixerByAndroid.csproj;x86
